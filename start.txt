@@ -1,0 +1,3 @@
+name:ansam
+class:12sc
+fav snack:cookies
